@@ -67,7 +67,7 @@ local Window = WindUI:CreateWindow({
     
     KeySystem = { 
         -- ↓ Optional. You can remove it.
-        Key = { "hackedbydr4vyn", "P938298292&|6336_$" },
+        Key = { "dr4vyn2026", "P938298292&|6336_$" },
         
         Note = "Join The Discord To Get The Key.",
         
