@@ -67,7 +67,7 @@ local Window = WindUI:CreateWindow({
     
     KeySystem = { 
         -- ↓ Optional. You can remove it.
-        Key = { "minitoon likes leaking intercity too much", "P938298292&|6336_$" },
+        Key = { "hackedbydr4vyn", "P938298292&|6336_$" },
         
         Note = "Join The Discord To Get The Key.",
         
