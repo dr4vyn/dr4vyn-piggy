@@ -204,7 +204,7 @@ local Tab9 = Window:Tab({
 Tab1:Select() -- Select Tab
 
 Window:Tag({
-    Title = "V3.7",
+    Title = "V1.O",
     Icon = nil,
     Color = nil,
     Radius = 0, -- from 0 to 13
