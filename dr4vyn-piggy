@@ -5379,7 +5379,7 @@ WindUI:SetTheme(option)
 })
 
 local Paragraph = Tab8:Paragraph({
-    Title = "Made By Totallynothimplayz",
+    Title = "Made By DR4VYN",
     Desc = "Script Owner, Script Maker",
     Color = "Green",
     Image = "rbxassetid://116404734406949",
@@ -5387,34 +5387,7 @@ local Paragraph = Tab8:Paragraph({
     Thumbnail = "",
     ThumbnailSize = 80,
     Locked = false,
-})
-
-local Button = Tab8:Button({
-    Title = "My Discord",
-    Desc = "Copies The Link To My Discord Server (Recommend Joining)",
-    Locked = false,
-    Callback = function()
-toclipboard("https://discord.gg/7euCFTSPfz")
-    end
-})
-
-local Button = Tab8:Button({
-    Title = "My YT Channel",
-    Desc = "Copies The Link To My Youtube Channel (Please Consider Subscribing)",
-    Locked = false,
-    Callback = function()
-toclipboard("https://m.youtube.com/@Totallynothimplayz")
-    end
-})
-
-local Button = Tab8:Button({
-    Title = "My Scriptblox Account",
-    Desc = "Copies The Link To My Scriptblox Account",
-    Locked = false,
-    Callback = function()
-toclipboard("https://scriptblox.com/u/Totallynothimplayz")
-    end
-})
+}) 
 
 local Paragraph1 = Tab9:Paragraph({
     Title = "Updates Log",
