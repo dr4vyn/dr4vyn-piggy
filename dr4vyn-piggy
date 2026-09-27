@@ -69,12 +69,12 @@ local Window = WindUI:CreateWindow({
         -- ↓ Optional. You can remove it.
         Key = { "dr4vyn2026", "P938298292&|6336_$" },
         
-        Note = "Join The Discord To Get The Key.",
+        Note = "Click the link below to get your key.",
         
         -- ↓ Optional. You can remove it.
         
         -- ↓ Optional. You can remove it.
-        URL = "https://discord.gg/7euCFTSPfz",
+        URL = "https://guns.lol/1ha",
         
         SaveKey = true, -- automatically save and load the key.
         
