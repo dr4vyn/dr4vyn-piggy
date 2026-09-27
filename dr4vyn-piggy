@@ -40,7 +40,7 @@ end
 local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
 
 local Window = WindUI:CreateWindow({
-    Title = "Piggy | DR4VYN",
+    Title = "Piggy | !DR4VYN? HUB",
     Icon = "lucide:piggy-bank", -- lucide icon
     Author = "By DR4VYN",
     Folder = "VenoHub",
