@@ -1,3 +1,6 @@
+--[[
+	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 
@@ -10,7 +13,7 @@ end
 player.CharacterAdded:Connect(setupHumanoid)
 
 if player.Character then
-    setupHumanoid(player.Character)sdsad
+    setupHumanoid(player.Character)
 end
 
 			if type(sethiddenproperty) == "function" then
